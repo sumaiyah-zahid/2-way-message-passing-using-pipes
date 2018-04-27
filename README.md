@@ -1,7 +1,7 @@
 # 2-way-message-passing-using-pipes
 communication between 4 processes using named pipes
 
-#Getting Started
+# Getting Started
 # Introduction:
 This project is to perform two way message passing between 4 processes
 using named pipes.
